@@ -363,7 +363,7 @@ ul li:hover {
 }
 .header_image {
     height: 100vh;
-    background-image: url(../images/sea.jpg);
+    background-image: url(https://github.com/dkp1903/personal-website/blob/master/white.png);
     background-size: cover;
     background-position: bottom;
     filter: blur(8px);
@@ -375,7 +375,7 @@ ul li:hover {
 
 @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 125em) {
     .header {
-      background-image: url(../images/sea.jpg); 
+      background-image: url(https://github.com/dkp1903/personal-website/blob/master/white.png); 
     } }
   
 
